@@ -28,7 +28,7 @@
 			{
 				"name": "linuxserver/nzbhydra2",
 				"tag": "latest",
-				"digest": "bf92bc646c3a4328a34309ab5de6c660ec009016f7fd480d950c76b2b6df577a",
+				"digest": "668a53227442727672ee70d2d0db5b0e51a6e98527187d8c0f128bdbbd0b7f62",
 				"service": "nzbhydra2"
 			},
 			{
