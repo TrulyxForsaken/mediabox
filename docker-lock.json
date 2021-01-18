@@ -64,7 +64,7 @@
 			{
 				"name": "linuxserver/sabnzbd",
 				"tag": "latest",
-				"digest": "4c24dc4c3726dbfd2e2b229b18c91bc7a9d8281f3cf0a0ee948d74fbc9f12718",
+				"digest": "a6383c617e733c994790ba41e2a0d729e6eae9948a41092927de230b09561b22",
 				"service": "sabnzbd"
 			},
 			{
