@@ -58,7 +58,7 @@
 			{
 				"name": "linuxserver/radarr",
 				"tag": "latest",
-				"digest": "0d116f850e15db2990ea81fcc0ec12534b3050074543b02caa62b5ba6a9d7d22",
+				"digest": "3fdd2101ac53760b347624ae82b423072bb47c87c30582801885c802fa068dd1",
 				"service": "radarr"
 			},
 			{
@@ -70,7 +70,7 @@
 			{
 				"name": "linuxserver/sonarr",
 				"tag": "latest",
-				"digest": "be90774f6fb711a10328d32a022bc12cd015a2f30e57d932be47bc2f83cea41b",
+				"digest": "ff2deac091e1247f8579bf79a6aab28257b32b07d8bba716dca4dc10ba683f03",
 				"service": "sonarr"
 			},
 			{
