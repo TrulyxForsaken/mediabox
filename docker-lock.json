@@ -10,7 +10,7 @@
 			{
 				"name": "linuxserver/calibre",
 				"tag": "latest",
-				"digest": "4f980a60abaa1886cae4949774228dae1255cbbdf4654522a8ac7434ccb6834c",
+				"digest": "1306d65da3c5defecbcf267049b551dd125e91279375767c0391735e920034c3",
 				"service": "calibre"
 			},
 			{
@@ -22,7 +22,7 @@
 			{
 				"name": "linuxserver/jackett",
 				"tag": "latest",
-				"digest": "077011cbd8c202300354905d43209a225ebce0e39d8da8f496da97dcfd11fb9a",
+				"digest": "d16a73111ed77b61f7326fe330126dd6a176c10c91c68ecd391d20234a617720",
 				"service": "jackett"
 			},
 			{
