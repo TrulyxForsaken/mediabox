@@ -46,13 +46,13 @@
 			{
 				"name": "portainer/portainer-ce",
 				"tag": "latest",
-				"digest": "61b9fb1a878e862441ed52409fcd411231b4fb9e0e3d022feff89ceb34bee686",
+				"digest": "9e47e109236f5861c239149804679f78ab91ae00feb6fa96f59c14053cdade51",
 				"service": "portainer"
 			},
 			{
 				"name": "portainer/agent",
 				"tag": "latest",
-				"digest": "372dd13917381fb98560c44db66e54b5f6b3a2087e6ae9777fdc101485cb8fc7",
+				"digest": "b825f63435e2f3f2691d84b386a330e7a6a2791c340d6f3167fb61b1b9c364ef",
 				"service": "portainer_agent"
 			},
 			{
