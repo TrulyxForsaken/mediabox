@@ -52,7 +52,7 @@
 			{
 				"name": "portainer/agent",
 				"tag": "latest",
-				"digest": "b825f63435e2f3f2691d84b386a330e7a6a2791c340d6f3167fb61b1b9c364ef",
+				"digest": "adc0bbf02946ddc90f715daa16aeb6eea32d281f37e58efd38d31c1d6005245b",
 				"service": "portainer_agent"
 			},
 			{
