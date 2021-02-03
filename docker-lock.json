@@ -4,7 +4,7 @@
 			{
 				"name": "linuxserver/bazarr",
 				"tag": "latest",
-				"digest": "f833eb51f555762cf993122175597ff92786631d8ca8ad676f7708cb1fd4f849",
+				"digest": "",
 				"service": "bazarr"
 			},
 			{
@@ -22,13 +22,13 @@
 			{
 				"name": "linuxserver/jackett",
 				"tag": "latest",
-				"digest": "c64ac5af3f2f6d3d4198aa5910e64b083ce59bdd61dbbe8aea6b345ec77ed128",
+				"digest": "",
 				"service": "jackett"
 			},
 			{
 				"name": "linuxserver/nzbhydra2",
 				"tag": "latest",
-				"digest": "4dd9ce3eeef61abe24fd08de2aada126b8ebd64fb2de3ef7b66e544a3aa835bb",
+				"digest": "",
 				"service": "nzbhydra2"
 			},
 			{
@@ -46,7 +46,7 @@
 			{
 				"name": "portainer/portainer-ce",
 				"tag": "latest",
-				"digest": "9e47e109236f5861c239149804679f78ab91ae00feb6fa96f59c14053cdade51",
+				"digest": "",
 				"service": "portainer"
 			},
 			{
