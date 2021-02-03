@@ -76,7 +76,7 @@
 			{
 				"name": "containrrr/watchtower",
 				"tag": "latest",
-				"digest": "ff3ba4f421801d07754150aee4c03fdde26a0a9783d66021e81c7097d6842f25",
+				"digest": "",
 				"service": "watchtower"
 			}
 		]
