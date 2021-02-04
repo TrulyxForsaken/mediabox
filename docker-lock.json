@@ -46,7 +46,7 @@
 			{
 				"name": "portainer/portainer-ce",
 				"tag": "latest",
-				"digest": "85d3b8993340b09478639965f96d1883289f05da09f7f4f620256aa0372f1319",
+				"digest": "5064d8414091c175c55ef6f8744da1210819388c2136273b4607a629b7d93358",
 				"service": "portainer"
 			},
 			{
