@@ -16,7 +16,7 @@
 			{
 				"name": "linuxserver/duplicati",
 				"tag": "latest",
-				"digest": "6709dd5dd7f9eee789d2eb9eed649396452db81b4fc7a74a2b640a03a495ca0b",
+				"digest": "99062a8860b9c6387a23a7d6458b80a05c18353fd896e2bb7294177bb46aa43b",
 				"service": "duplicati"
 			},
 			{
@@ -64,7 +64,7 @@
 			{
 				"name": "linuxserver/sabnzbd",
 				"tag": "latest",
-				"digest": "d82e9f44b9d7e1989e5241a75d91d252bd024ead23eec66a598a0ceb69752fcb",
+				"digest": "04d2ac7dd7efc48eaabf4e4d086958b9fc7f11278ba62e2cb27c69a42cbb558d",
 				"service": "sabnzbd"
 			},
 			{
