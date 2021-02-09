@@ -70,7 +70,7 @@
 			{
 				"name": "linuxserver/sonarr",
 				"tag": "latest",
-				"digest": "e42c425199ab304640ebe77d6e7adaa554f8286fe978609ca42f17a74a3607b6",
+				"digest": "27ecfa3fbd59d77dd3c3f4a1685d88833bdf229b5a20e63842aa5d8aa6130c7a",
 				"service": "sonarr"
 			},
 			{
