@@ -22,7 +22,7 @@
 			{
 				"name": "linuxserver/jackett",
 				"tag": "latest",
-				"digest": "75bf09c04b7130a7f85e2dcee8bfb918b8d41412eff031c1c0d64b68cc66824d",
+				"digest": "a84ccf9cfd1453928d2897ca77e066583341e302bbcc7d92c5d50bf6365e33e9",
 				"service": "jackett"
 			},
 			{
