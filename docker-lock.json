@@ -58,7 +58,7 @@
 			{
 				"name": "linuxserver/radarr",
 				"tag": "latest",
-				"digest": "624929e0ae3fc4cf12cb80f06d6d38634e9dd86907eb474c2a9a4fde2e5c2fe7",
+				"digest": "57cdf20c91c2775bd950e1c05ea6039a1e5fd64ee6e86736bbd7cb724f7814d2",
 				"service": "radarr"
 			},
 			{
