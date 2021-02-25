@@ -40,7 +40,7 @@
 			{
 				"name": "linuxserver/plex",
 				"tag": "latest",
-				"digest": "173dc596d6a704581c13267ce4a06eb310e3cb90bb337607a25263e6333f75f4",
+				"digest": "239018a79a26bdbe6a9a0caa84e80a11dd7220ac026537565fc79d193a4c9343",
 				"service": "plex"
 			},
 			{
