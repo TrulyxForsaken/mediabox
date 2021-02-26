@@ -4,7 +4,7 @@
 			{
 				"name": "linuxserver/bazarr",
 				"tag": "latest",
-				"digest": "6c90f9c77e414991e20d00a253e77d03d00ae9ab25d9b9f08079a5d98b0ec643",
+				"digest": "c4c46af8e2c6fee391ff5ce06d033aaef21e5d1ce3f8c4a12553556e493d3255",
 				"service": "bazarr"
 			},
 			{
