@@ -10,7 +10,7 @@
 			{
 				"name": "linuxserver/calibre",
 				"tag": "latest",
-				"digest": "d8e0ffc935bc2de469da41d47725404ccfa7acdbb625e397838c301588e104f3",
+				"digest": "5d8020da961392cbac4bf455a63d945135ea909ca37a89c6bba1d7912179b5ca",
 				"service": "calibre"
 			},
 			{
