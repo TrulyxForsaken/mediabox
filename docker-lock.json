@@ -1,0 +1,84 @@
+{
+	"composefiles": {
+		"docker-compose.yml": [
+			{
+				"name": "linuxserver/bazarr",
+				"tag": "latest",
+				"digest": "c4c46af8e2c6fee391ff5ce06d033aaef21e5d1ce3f8c4a12553556e493d3255",
+				"service": "bazarr"
+			},
+			{
+				"name": "linuxserver/calibre",
+				"tag": "latest",
+				"digest": "5d8020da961392cbac4bf455a63d945135ea909ca37a89c6bba1d7912179b5ca",
+				"service": "calibre"
+			},
+			{
+				"name": "linuxserver/duplicati",
+				"tag": "latest",
+				"digest": "da465fef8bd620d0afa9c2b992b60e94e54ec8d9b952bd2441abe9c0384d77aa",
+				"service": "duplicati"
+			},
+			{
+				"name": "linuxserver/jackett",
+				"tag": "latest",
+				"digest": "23088a98c769f933354ce83d89f21a56bf82733253493e3d9c20a65c03d7f878",
+				"service": "jackett"
+			},
+			{
+				"name": "linuxserver/nzbhydra2",
+				"tag": "latest",
+				"digest": "df4a4b644f7d7091c16f488a463454f80de3b41e3a2301c2e10632260b5ec6e5",
+				"service": "nzbhydra2"
+			},
+			{
+				"name": "organizrtools/organizr-v2",
+				"tag": "",
+				"digest": "",
+				"service": "organizr"
+			},
+			{
+				"name": "linuxserver/plex",
+				"tag": "latest",
+				"digest": "57c7ae079c2eb7ea82eccedf3b0e028ffdf16587531733434c64bdb96103b595",
+				"service": "plex"
+			},
+			{
+				"name": "portainer/portainer-ce",
+				"tag": "latest",
+				"digest": "5064d8414091c175c55ef6f8744da1210819388c2136273b4607a629b7d93358",
+				"service": "portainer"
+			},
+			{
+				"name": "portainer/agent",
+				"tag": "latest",
+				"digest": "397d3dea42d1bfceebe9ab481ef74e00e833963dcd7b301e2af60516d338e885",
+				"service": "portainer_agent"
+			},
+			{
+				"name": "linuxserver/radarr",
+				"tag": "latest",
+				"digest": "3386eeeb87c210a3a5549e85cd5f92f30dd4bf3130d880d795bcc840ee0958df",
+				"service": "radarr"
+			},
+			{
+				"name": "linuxserver/sabnzbd",
+				"tag": "latest",
+				"digest": "b34e3f246b6224826187202222963e8201f18880c23a344882a1046f90945c62",
+				"service": "sabnzbd"
+			},
+			{
+				"name": "linuxserver/sonarr",
+				"tag": "latest",
+				"digest": "ab4badd762f120796dce0a246a7f99143678d218fdf97cba893f1b2d0ef5c184",
+				"service": "sonarr"
+			},
+			{
+				"name": "containrrr/watchtower",
+				"tag": "latest",
+				"digest": "ff3ba4f421801d07754150aee4c03fdde26a0a9783d66021e81c7097d6842f25",
+				"service": "watchtower"
+			}
+		]
+	}
+}
